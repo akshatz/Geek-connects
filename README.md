@@ -1,2 +1,1 @@
-# GeekConnects
-A static website
+# GeekConnects For Internship
